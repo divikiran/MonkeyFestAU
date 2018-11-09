@@ -38,8 +38,6 @@ namespace MonkeyFestAR.Apps
 
         private void CreateScene()
         {
-            var cache = ResourceCache;
-
             var baseNode = Scene.CreateChild();
             var plane = baseNode.CreateComponent<StaticModel>();
             plane.Model = CoreAssets.Models.Plane;

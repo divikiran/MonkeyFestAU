@@ -28,11 +28,10 @@ namespace MonkeyFestAR.Apps
             arkitComponent.RunEngineFramesInARKitCallbakcs = Options.DelayedStart;
             arkitComponent.Run();
 
-            // Mutant
+            // Tree
             treeNode = Scene.CreateChild();
             treeNode.SetScale(0.05f);
             treeNode.Position = new Vector3(0, -0.3f, 0.75f);
-            //mutantNode.Rotate(Quaternion.Identity.)
             treeNode.Rotate(new Quaternion(0, 100, 0), TransformSpace.Local);
 
             var planeNode = treeNode.CreateChild();
@@ -42,13 +41,13 @@ namespace MonkeyFestAR.Apps
             var model = treeNode.CreateComponent<AnimatedModel>();
             model.CastShadows = true; 
 
-            var cursorMaterial = new Material();
-            cursorMaterial.SetTexture(TextureUnit.Diffuse, ResourceCache.GetTexture2D("Textures/CocosNucifera_BaseColor.jpg"));
-            cursorMaterial.SetTexture(TextureUnit.Normal, ResourceCache.GetTexture2D("Textures/CocosNucifera_Normal_DirectX.jpg"));
-            cursorMaterial.SetTechnique(0, CoreAssets.Techniques.DiffNormal);
+            var material = new Material();
+            material.SetTexture(TextureUnit.Diffuse, ResourceCache.GetTexture2D("Textures/CocosNucifera_BaseColor.jpg"));
+            material.SetTexture(TextureUnit.Normal, ResourceCache.GetTexture2D("Textures/CocosNucifera_Normal_DirectX.jpg"));
+            material.SetTechnique(0, CoreAssets.Techniques.DiffNormal);
  
             model.Model = ResourceCache.GetModel("Models/Tree1.mdl");
-            model.Material = cursorMaterial; 
+            model.Material = material; 
 
             var animation = treeNode.CreateComponent<AnimationController>();
             animation.Play("Animations/Tree.ani", 0, true, 0.2f);

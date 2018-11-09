@@ -40,12 +40,11 @@ namespace MonkeyFestAR.Apps
 
         private void CreateScene()
         {
-            var cache = ResourceCache;
             scene = new Scene();
             scene.CreateComponent<Octree>();
             plotNode = scene.CreateChild();
-            var baseNode = plotNode.CreateChild();
-            var plane = baseNode.CreateComponent<StaticModel>();
+            //var baseNode = plotNode.CreateChild();
+            var plane = plotNode.CreateComponent<StaticModel>();
             plane.Model = CoreAssets.Models.Plane;
 
             var cameraNode = scene.CreateChild();
