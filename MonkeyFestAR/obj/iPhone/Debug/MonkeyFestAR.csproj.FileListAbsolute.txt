@@ -1,0 +1,13 @@
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/bin/iPhone/Debug/MonkeyFestAR.exe
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/bin/iPhone/Debug/MonkeyFestAR.pdb
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/bin/iPhone/Debug/Urho.dll
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/bin/iPhone/Debug/Urho.xml
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/actool/_PartialAppManifest.items
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/actool/_BundleResourceWithLogicalName.items
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/coremlc/_PartialAppManifest.items
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/coremlc/_BundleResourceWithLogicalName.items
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/optimized/
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/MonkeyFestAR.csproj.CoreCompileInputs.cache
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/MonkeyFestAR.csproj.CopyComplete
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/MonkeyFestAR.exe
+/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/MonkeyFestAR.pdb

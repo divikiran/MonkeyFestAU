@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{25727201-D27A-49E4-8C23-717E9F710FDB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MonkeyFestAR/AppDelegate.cs">
+    <Files>
+      <File FileName="MonkeyFestAR/AppDelegate.cs" Line="10" Column="123" />
+      <File FileName="MonkeyFestAR/Apps/ApplicationApp.cs" Line="41" Column="1" />
+      <File FileName="MonkeyFestAR/Apps/SimpleApplicationApp.cs" Line="10" Column="63" />
+      <File FileName="MonkeyFestAR/Info.plist" />
+      <File FileName="MonkeyFestAR/Apps/ARApp.cs" Line="13" Column="10" />
+      <File FileName="MonkeyFestAR/Apps/ModelApp.cs" Line="49" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MonkeyFestAR PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.DBE7EA64-9154-4DF9-ACAB-8FA4DCBEA493" automaticSigning="False" />
+</Properties>

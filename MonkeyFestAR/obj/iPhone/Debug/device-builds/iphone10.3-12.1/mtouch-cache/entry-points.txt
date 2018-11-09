@@ -1,0 +1,17 @@
+Function=xamarin_timezone_get_data
+	/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend
+	/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_simd__NMatrix4_objc_msgSend_Int64_CGSize_nfloat_nfloat
+	/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/divikiranravela/Projects/MonkeyFestAR/MonkeyFestAR/obj/iPhone/Debug/device-builds/iphone10.3-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip
